@@ -27,14 +27,15 @@
 <img src = "./images/1.Setting/2.account.png" width = "80%"></img>
 	* c.f.) E5010 : `admin / admin123!`
 
-* 비밀번호 변경 : `username admin password [변경]`
-
 ## Configure Mode
 * 관리자모드 변경 : `en`
-	* > &rarr; 
+	* > &rarr; # 
 * 설정모드 진입 : `configure terminal`
 
 <img src = "./images/1.Setting/3.configure-mode.png" width = "80%"></img>
+
+* 비밀번호 변경 : `username admin password [변경]`
+
 
 ## VLAN Setting
 * VLAN 설정모드 진입 : `vlan database`
